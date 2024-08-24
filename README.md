@@ -26,7 +26,8 @@ We need an emulator to run our bootloader and kernel -- we will use QEMU
 
 `qemu-system-x86_64` 
 
-![image](https://github.com/user-attachments/assets/c2f70d1c-634e-4e66-aa52-0bc279a32d63)
+![image](https://github.com/user-attachments/assets/fa83284d-0283-49ba-ac8d-7d62ca334dc6)
+
 
 As you can see our vm is booted but as there are no virtual harddisks attached, it cannot do anything else.
 
@@ -38,7 +39,8 @@ boot.asm
 
 
 Bootsector that outputs "A" on the screen:
-![image](https://github.com/user-attachments/assets/75c413c9-537d-4a9b-b849-ac9979ce766c)
+![image](https://github.com/user-attachments/assets/ca9238a4-3ba9-441f-a306-759b7bb2e495)
+
 
 
 
